@@ -23,32 +23,6 @@ Two applications were developed as part of this project: one for landmark extrac
 - Configuration of visual parameters (color, opacity)
 - Analysis of descriptors (volume, dimensions)
 
-## Project structure
-
-```
-Otolith-landmark-prediction-analysis/
-│
-├── R/                          # Main R scripts
-│   ├── Extractor_App.R        # Landmarks extraction application
-│   ├── View_App.R              # 3D visualization application
-│   ├── Landmark_correction.R   # Landmarks adjustment functions
-│   ├── Landmarks_prediction_APP.R # Landmarks prediction
-│   ├── utils.R                 # General Utility Functions
-│   ├── utils_extractor.R      # Extractor-Specific Functions
-│   └── utils_ViewApp.R         # Visualization-Specific Functions
-│
-├── Setup_Extractor.R          # Library configuration for the extraction 
-├── Setup_ViewApp.R             # Library configuration for the visualization 
-│
-├── Pytorch/                    # PyTorch models for landmark prediction
-│   ├── Landmarks_NN_4.pt       # Trained model for landmark prediction
-│   └── Model_Optimizer_4.pt    # Optimizer state for the model
-│
-└── Data/                       # Data folder
-    ├── PLY_files_ASCII/        # PLY files in ASCII format
-    └── points.txt              # Exported landmark data
-```
-
 ## Prerequisites
 
 This project requires R (version 4.0 or higher) and the following packages:
