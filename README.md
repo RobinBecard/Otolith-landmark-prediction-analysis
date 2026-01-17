@@ -2,7 +2,6 @@
 
 [![R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![PyTorch](https://img.shields.io/badge/Model-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://torch.mlverse.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project focuses on the automation and analysis of 3D objects. Otoliths, small calcified structures found in the inner ear of fish, are commonly used in fisheries science to estimate age, growth, and population structure. By leveraging machine learning and 3D geometry analysis, this tool aims to identify key morphological landmarks on otolith meshes (.ply files), enabling faster and more consistent analysis for ecological and biological research.
 
