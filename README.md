@@ -46,11 +46,11 @@ This interactive viewer provides comprehensive tools for examining 3D otolith mo
   <tr>
     <td width="50%" align="center">
       <img src="./assets/view_app_02.png" alt="View App Screenshot 1" style="width:100%;">
-      <em>Interactive 3D visualization of an otolith model.</em>
+      <em>Interface for PLY file selection.</em>
     </td>
     <td width="50%" align="center">
       <img src="./assets/view_app_01.png" alt="View App Screenshot 2" style="width:100%;">
-      <em>Display of characteristic points and surface details.</em>
+      <em>Interactive 3D visualization of an otolith model.</em>
     </td>
   </tr>
 </table>
