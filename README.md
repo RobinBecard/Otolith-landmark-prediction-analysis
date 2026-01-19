@@ -136,4 +136,10 @@ This project requires R (version 4.0 or higher) and the packages listed in the T
 The application supports the Polygon File Format (.ply), specifically designed for storing 3D data. Both ASCII and binary encoded `.ply` files are handled, with automatic internal conversion when necessary.
 
 ### Landmark Output Format
-The exported landmark data is presented in a structured text file, making it directly compatible with geometric morphometrics software. The format includes metadata (e.g., number of landmarks, volume) followed by the XYZ coordinates of each landmark:
+The exported landmark data is presented in a structured text file, making it directly compatible with geometric morphometrics software. The format includes metadata (e.g., number of landmarks, volume) followed by the XYZ coordinates of each landmark.
+
+---
+
+## Author
+
+Robin BECARD, Adrien SKRZYPCZAK, Rémi DAMBRICOURT
